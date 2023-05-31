@@ -18,7 +18,7 @@ $\Omega = \lbrace (x,y) : x \left(x-\frac{1}{2}\right)^2 + x \left(y-\frac{1}{2}
 
 Das konkrete Ergebniss kann mit 
 
-$I_1[f]=\int^{2\pi}_0\int_{0}^{r_0}sin\left(\sqrt{log(x_m+y_m+r \cos(\phi) + r sin(\phi)+1)}\right) rdrd \phi$
+$I_1 [f]=\int^{2\pi}_ 0\int_{0}^{r_0}sin\left(\sqrt{log(x_m+y_m+r \cos(\phi) + r sin(\phi)+1)}\right) r drd\phi $
 
 ermittelt werden, wobei $(x_n,y_m)$ und $r_0$ der Mittelpunkt und Radius der Kreisfläche von $\Omega$ sind.
 
